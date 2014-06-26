@@ -4,10 +4,6 @@ FirstTry
 FOO BAR
 
 
-Hi sharp
-
-this is t90
-
 
 Hi t90.
 
